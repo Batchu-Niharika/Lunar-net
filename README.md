@@ -1,7 +1,7 @@
-<table style="margin-bottom: 10px; height: 10px;" cellspacing="0" width="100%">
+<table style="margin-bottom: 20px; height: 20px;" cellspacing="0" width="100%">
 	<col style="width: 100%;" />
 	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 3pt;">1 
+		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 10pt;">1 
 		 Automate Frequently Used Commands </h1></td>
 	</tr>
 </table>
