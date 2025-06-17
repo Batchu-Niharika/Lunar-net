@@ -1,19 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Adobe RoboHelp 2017" />
-<title>First Topic</title>
-<link rel="StyleSheet" href="LN.css" type="text/css" />
-</head>
-
-<body>
 <table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
 	<col style="width: 100%;" />
 	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 3pt;"># *1 
-		 Automate Frequently Used Commands* </h1></td>
+		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 3pt;">1 
+		 Automate Frequently Used Commands </h1></td>
 	</tr>
 </table>
 <p>In this chapter, you will create your first intent. You will find that 
