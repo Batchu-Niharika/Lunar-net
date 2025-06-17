@@ -1,0 +1,90 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+body {
+	font-family: Arial;
+	background-color: #ffffff;
+}
+h1 {
+	font-weight: bold;
+	margin-top: 5pt;
+	font-size: 20pt;
+	color: #ff7f3f;
+	margin-bottom: 5pt;
+	font-family: "Sans Serif Collection";
+}
+h2 {
+	font-weight: bold;
+	font-size: 18.0pt;
+	color: #ff7f3f;
+}
+h3 {
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+h4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+h5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+h6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+p {
+	margin-top: 0pt;
+	line-height: 150%;
+	margin-bottom: 9pt;
+	font-size: 11pt;
+	font-family: "Sans Serif Collection";
+}
+a.expandspot {
+	color: #008000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+a.dropspot {
+	cursor: hand;
+	color: #008000;
+	font-style: italic;
+	text-decoration: none;
+}
+a.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+ol,
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+li.list {
+	list-style: inside decimal;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-left: 0px;
+	font-family: "Sans Serif Collection";
+	font-size: 11pt;
+}
+li.Style1 {
+	list-style: lower-roman;
+	font-family: Mangal;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}

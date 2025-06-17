@@ -1,0 +1,493 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+/* Import font from Google Web Fonts */@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Open Sans") local(OpenSans) url("https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2") format(woff2);
+	unicode-range: U+0000-00FF U+0131 U+0152-0153 U+02C6 U+02DA U+02DC U+2000-206F U+2074 U+20AC U+2212 U+2215 U+E0FF U+EFFD U+F000;
+};
+
+/* This style file has been created automatically per your request.
+
+The following pages can help you get started with CSS:
+* CSS Tutorial (http://w3schools.com/css/default.asp)
+* CSS3 Tutorial (http://w3schools.com/css3/default.asp)
+* CSS Reference (http://w3schools.com/cssref/default.asp) */
+body {
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 8px;
+	color: #4D4D4D;
+	text-align: left;
+	line-height: 1.5;
+}
+.nospacing {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+a,
+.CHHotspot {
+	color: #2C72C8;
+	text-decoration: none;
+}
+a:visited {
+	color: #345079;
+}
+a:hover,
+.CHHotspot:hover {
+	color: #2C72FF;
+	text-decoration: underline;
+}
+a:active,
+.CHHotspot:active {
+	color: #2C72C8;
+}
+.CHHotspot_expanded {
+}
+a img {
+	border: 0;
+}
+h1 {
+	font-size: 1.60rem;
+	font-weight: bold;
+	color: #ff7f3f;
+}
+h2 {
+	font-size: 1.40rem;
+	font-weight: bold;
+	color: #ff7f3f;
+}
+h3 {
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #437ba4;
+}
+ul {
+	padding-left: 40px;
+}
+ul li {
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+}
+ol {
+	padding-left: 40px;
+}
+ol li {
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+.listNumeric {
+	font-family: "Sans Serif Collection";
+	list-style: inside decimal;
+	margin-left: -48px;
+}
+.listAlpha {
+	list-style-type: lower-alpha;
+}
+.listRoman {
+	list-style-type: lower-roman;
+}
+.listDisc {
+	list-style-type: disc;
+}
+.listCircle {
+	list-style-type: circle;
+}
+.listSquare {
+	list-style-type: square;
+}
+@media print{
+	.nonPrintable {
+		display: none;
+	}
+	}
+
+/* --- Custom classes --- */
+.screenshot {
+	box-shadow: 0px 2px 6px 1px rgba(0, 0, 0, 0.75);
+}
+/* Start Page */
+.startHeader {
+	margin-bottom: 15px;
+	padding: 8px;
+	background: url("../../../../../../../resources/Storage/project-r12-1-project/escheresque.png");
+	font-weight: 400;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.startTable {
+	margin-top: 10px;
+}
+.startTable h2 {
+	padding-top: 0;
+	padding-left: 5px;
+	margin: 0;
+}
+.startTable:after {
+	content: ;
+	clear: both;
+	display: block;
+}
+.startColumn {
+	float: left;
+	width: 33.333333333333%;
+}
+@media (max-width: 767px){
+	.startColumn {
+		width: 100%;
+	}
+	}
+
+/* One column per screen */
+/* Footer element */
+.footer {
+	font-size: 12px;
+	margin-top: 20px;
+	padding: 8px;
+	border-top: 1px solid #a2a2a2;
+	color: #696969;
+}
+/* Tables */
+.sampleTable {
+	max-width: 480px;
+}
+/* CHTable is the CSS class assigned to all tables by default. Use the styles below to customize the default tables appearance */
+.CHTable th,
+.CHTable td {
+	border: 1px solid #cdcdcd;
+}
+.CHTable {
+	font-size: 12px;
+	text-align: left;
+	border-collapse: collapse;
+}
+.CHTable th {
+	font-size: 14px;
+	font-weight: normal;
+	padding: 10px 8px;
+	color: #555555;
+	background: #efefef;
+}
+.CHTable td {
+	padding: 8px;
+	color: #333;
+}
+/* Simple table */
+.tableSimple {
+	font-size: 12px;
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+	border: 1px solid #616161;
+}
+.tableSimple th {
+	padding: 15px 10px 10px 10px;
+	font-weight: normal;
+	font-size: 14px;
+	color: #555555;
+	text-align: left;
+}
+.tableSimple tbody {
+	background: transparent;
+}
+.tableSimple td {
+	padding: 10px;
+	color: #333;
+	border-top: 1px solid #696969;
+	text-align: left;
+}
+.tableSimple tbody tr:hover td {
+	color: #000000;
+	background: #EFEFEF;
+}
+/* Table with both rows and columns having odd/even styles */
+.tableVerZebra {
+	font-size: 12px;
+	text-align: left;
+	border-collapse: collapse;
+	background: #eee;
+}
+.tableVerZebra th {
+	font-size: 14px;
+	font-weight: normal;
+	padding: 12px 15px;
+	border-right: 1px solid #ffffff;
+	border-left: 1px solid #ffffff;
+	color: #555555;
+	background: #eee;
+}
+.tableVerZebra td {
+	padding: 8px 15px;
+	border-right: 1px solid #ffffff;
+	border-left: 1px solid #ffffff;
+	color: #333;
+}
+.tableVerZebra tr:nth-child(odd) {
+	background: #E0E0E0;
+	border-bottom: 1px solid #ffffff;
+	border-top: 1px solid #ffffff;
+}
+.tableVerZebra tfoot td {
+	background: #EEEEEE;
+	color: #333;
+}
+/* Info Box */
+.infoBox {
+	width: 100%;
+	padding: 3px;
+	font-size: 0.8em;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.infoBox p:last-child {
+	margin-bottom: 0;
+}
+.infoBox p {
+	margin-top: 0;
+}
+.infoBoxImageCell {
+	width: 16px;
+	padding-top: 2px;
+}
+.infoBox td {
+	padding: 5px;
+	vertical-align: top;
+}
+.warningBox {
+	width: 100%;
+	padding: 3px;
+	font-size: 0.8em;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.warningBox p:last-child {
+	margin-bottom: 0;
+}
+.warningBox p {
+	margin-top: 0;
+}
+.warningBox td {
+	padding: 5px;
+	vertical-align: top;
+}
+.warningBoxImageCell {
+	width: 16px;
+	vertical-align: top;
+	padding-top: 2px;
+}
+/* "Show More" Box */
+.CHBoxShowMore {
+}
+.CHBoxShowMore .showMoreLabel {
+}
+.CHBoxShowMore .hideLabel {
+}
+.CHBoxShowMore .showMoreContent {
+}
+/* Navigation elements */
+.CHNavLinkTop {
+}
+.CHNavLinkNext {
+}
+.CHNavLinkPrevious {
+}
+.CHNavCaption {
+}
+.CHSeeAlso {
+}
+.CHSeeAlso_separator {
+}
+.CHSeeAlso_item {
+}
+.CHSeeAlso_itemChild {
+}
+.CHSeeAlso_itemSibling {
+}
+.CHSeeAlso_hasChildren {
+}
+.CHSeeAlso_hasSiblings {
+}
+.CHBreadcrumb {
+}
+.CHBreadcrumb_separator {
+}
+.CHBreadcrumb_item {
+}
+.CHBreadcrumb_itemHome {
+}
+.CHBreadcrumb_itemPub {
+}
+.CHBreadcrumb_itemSelf {
+}
+/* FAQ */
+.faqQuestionText {
+	font-size: 1.1em;
+	background: #eee;
+	padding: 10px;
+}
+.faqQuestionText p {
+	padding-top: 10px;
+}
+/* Link icons displayed on hover in headings */
+.CHHeadingLink {
+}
+/* Mini-TOC */
+.CHMiniToc {
+}
+.CHMiniToc_heading3,
+.CHMiniToc_heading4,
+.CHMiniToc_heading5,
+.CHMiniToc_heading6 {
+}
+/* Code Samples */
+.CHCodeSample_container {
+}
+.CHCodeSample_header {
+}
+.CHCodeSample_langName {
+}
+.CHCodeSample_copyCode {
+}
+.CHCodeSample_code {
+}
+/* Tabs */
+.CHTabs_container {
+}
+.CHTabs_tabCaptionsContainer {
+}
+.CHTabs_tabCaption {
+}
+.CHTabs_tabCaption:hover {
+	color: #2C72C8;
+	background-color: #e4ebef;
+}
+.CHTabs_tabCaption.CHTabs_tabCaptionSelected,
+.CHTabs_tabCaptionSelected:hover {
+	color: #2C72C8;
+	background-color: #cfe0ed;
+}
+.CHTabs_tabContentContainer {
+}
+/* API Docs Elements - begin */
+.inlineCode {
+	font-family: Consolas, monospace;
+	color: #696969;
+	background: #f6f7f9;
+	padding: 3px;
+	border-radius: 3px;
+}
+/* CHMemberTable */
+.CHMemberTable {
+	border: 1px solid #e7ecf0;
+	border-radius: 3px;
+	border-collapse: collapse;
+	width: 100%;
+}
+.CHMemberTable tr:nth-child(even) {
+	background-color: #f5f7f9;
+}
+.CHMemberTable td {
+	border-bottom: 1px solid #f5f7f9;
+	vertical-align: baseline;
+	padding: 10px;
+}
+.CHMemberTable td p {
+	margin: 0;
+	line-height: 1.5;
+}
+.CHMemberTable > tr > td:first-child,
+.CHMemberTable > tbody > tr > td:first-child {
+	line-height: 1;
+	white-space: nowrap;
+}
+.CHMemberTable > tr > td:nth-child(2),
+.CHMemberTable > tbody > tr > td:nth-child(2) {
+	font-family: Consolas, monospace;
+	color: #8792a2;
+	white-space: nowrap;
+}
+.CHMemberTable > tr > td:last-child,
+.CHMemberTable > tbody > tr > td:last-child {
+	width: 100%;
+}
+.CHMemberTable_optionalMark,
+.CHMemberTable_requiredMark {
+	font-family: monospace;
+	font-size: 0.9em;
+	text-transform: uppercase;
+}
+.CHMemberTable_requiredMark {
+	color: #ed6055;
+}
+/* CHHttpRequest */
+.CHHttpRequest {
+	width: 100%;
+	table-layout: fixed;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-top: 1em;
+}
+.CHHttpRequest_headerImg,
+.CHHttpRequest_headerText {
+	padding-top: 5px;
+	padding-bottom: 8px;
+	font-weight: bold;
+}
+.CHHttpRequest_get .CHHttpRequest_headerImg,
+.CHHttpRequest_put .CHHttpRequest_headerImg {
+	width: 40px;
+}
+.CHHttpRequest_post .CHHttpRequest_headerImg {
+	width: 47px;
+}
+.CHHttpRequest_delete .CHHttpRequest_headerImg {
+	width: 63px;
+}
+.CHHttpRequest_headerImg {
+	padding-right: 10px;
+}
+.CHHttpRequest_headerImg img {
+	vertical-align: middle;
+}
+.CHHttpRequest_headerText {
+	width: 100%;
+}
+.CHHttpRequest_code {
+	font-family: Consolas, monospace;
+	font-size: 14px;
+	color: #696969;
+	background: #f6f7f9;
+	border-radius: 4px;
+	padding: 10px 16px;
+}
+/* CHResponseCode */
+.CHResponseCode_good,
+.CHResponseCode_warning,
+.CHResponseCode_error {
+	font-weight: bold;
+	margin-bottom: 0;
+}
+.CHResponseCode_good + p,
+.CHResponseCode_warning + p,
+.CHResponseCode_error + p {
+	margin-top: 0;
+}
+.CHResponseCode_good::before,
+.CHResponseCode_warning::before,
+.CHResponseCode_error::before {
+	content: " ";
+	display: inline-block;
+	height: 10px;
+	width: 10px;
+	border-radius: 50%;
+}
+.CHResponseCode_good::before {
+	background: #27cb7c;
+}
+.CHResponseCode_warning::before {
+	background: #ff9d3d;
+}
+.CHResponseCode_error::before {
+	background: #ff4741;
+}
+/* API Docs Elements - end */
