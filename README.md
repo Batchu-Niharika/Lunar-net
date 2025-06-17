@@ -10,7 +10,7 @@
 		<td><p style="text-align: center; font-weight: bold;">Intent Description</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align: center;">bold;Ping &lt;destination ip&gt; 
+		<td><p style="text-align: center;"font-weight: bold;">Ping &lt;destination ip&gt; 
 		 </p></td>
 		<td><p style="text-align: center;">Check whether the success rate 
 		 is equal to 100% and the average round trip time is reasonable. 
