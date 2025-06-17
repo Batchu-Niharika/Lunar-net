@@ -1,10 +1,6 @@
 # <span style="color: #ff7f3f;">1 Automate Frequently Used Commands </span>
 	
-<p>In this chapter, you will create your first intent. You will find that 
- it is easy to automate the </p>
-<p>frequently used CLI commands such as Ping &lt;destIP&gt; and show ip 
- route &lt;destIP&gt;. No </p>
-<p>programming knowledge is required. We will use two examples:</p>
+<p>In this chapter, you will create your first intent. You will find that it is easy to automate the frequently used CLI commands such as Ping &lt;destIP&gt; and show ip route &lt;destIP&gt;. No programming knowledge is required. We will use two examples:</p>
 <table style="border-collapse: separate; border-collapse: separate;" cellspacing="0" 
 		 width="82.334%" border="1">
 	<col style="width: 43.214%;" />
