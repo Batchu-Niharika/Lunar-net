@@ -175,9 +175,7 @@
 	<p><img src="image21.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
-# <span style="color: #ff7f3f;">1.4 Define the Diagnosis</span>
-	</tr>
-</table>
+## <span style="color: #ff7f3f;">1.4 Define the Diagnosis</span>
 <p>Go to the Define Logic section to define the diagnosis logic as follows:</p>
 <ol>
 	<li>Enter the diagnosis name, e.g., Ping Cisco or Subnet next hop check.</li>
@@ -215,13 +213,8 @@
 	</table>
 	<p><img src="image23.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr style="height: 36px;">
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1>1.5 Define 
-		 Intent Output</h1></td>
-	</tr>
-</table>
+
+## <span style="color: #ff7f3f;">1.5 Define Intent Output</span>
 <p>Enter a message under the Then and Else output areas to appear as the 
  result of the diagnosis.</p>
 <ol>
@@ -305,7 +298,8 @@
 	</ul>
 	<p><img src="image29.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-# <span style="color: #ff7f3f;">1.6 Duplicate the Intent to Other Devices </span>
+
+## <span style="color: #ff7f3f;">1.6 Duplicate the Intent to Other Devices </span>
 
 <p>An intent can be duplicated to other devices. The system will automatically 
  copy the parser and logic to other devices.</p>
@@ -327,7 +321,7 @@
 	<p><img src="image30.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
-# <span style="color: #ff7f3f;"> 1.7 Diagnosis Tree </span>
+## <span style="color: #ff7f3f;"> 1.7 Diagnosis Tree </span>
 <p>Click to view the diagnosis tree. It includes the following details 
  as shown in the figure:</p>
 <ul>
@@ -339,26 +333,23 @@
 <p><img alt="" src="Screenshot 2025-06-15 142613.jpg" style="border: none;" 
 		 width="780" height="623" border="0" /></p>
    
-# <span style="color: #ff7f3f;"> 1.8 View the Result on Map </span>
+## <span style="color: #ff7f3f;"> 1.8 View the Result on Map </span>
 
 <p>The result of the intent execution can be visualized in a map as shown 
  in the following map by selecting Show in Map button located in the Run 
  Intent pane:</p>
 <p><img src="image33.gif" alt="" style="border: none;" border="0" /></p>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.9 
-		 Create Intent and Summary Dashboard </h1></td>
-	</tr>
-</table>
+
+## <span style="color: #ff7f3f;"> 1.9 Create Intent and Summary Dashboard </span>
+	
 <p>You can view the intent results through two different dashboards:</p>
 <ul>
 	<li>Intent Dashboard to view the individual Intent results and</li>
 	<li>Summary Dashboard to view the consolidated Intent results in a 
 	 single view.</li>
 </ul>
-## 1.9.1 Intent Dashboard</h2>
+
+### <span style="color: #ff7f3f;"> 1.9.1 Intent Dashboard</span>
 <p>The Intent Dashboard observes specific network issues with details and 
  displays the results. You can save the frequently used dashboards as templates. 
  Intent Dashboard can be created directly from the Map Intent tab as follows:</p>
@@ -379,7 +370,8 @@
 	 and the dashboard will be created.</p></li>
 	<p><img src="image35.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<h2>1.9.2 Summary Dashboard</h2>
+
+### <span style="color: #ff7f3f;"> 1.9.2 Summary Dashboard</span>
 <p>The summary dashboard provides an overview displaying results from multiple 
  Intent dashboards of the entire network or a set of network devices. With 
  Summary Dashboard, you can group Intent Dashboards into widgets based 
@@ -415,7 +407,8 @@
 	 interface.</li>
 	<p><img src="image39.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<h2>1.9.3 Add an Intent Dashboard to an Existing Summary Dashboard</h2>
+
+### <span style="color: #ff7f3f;"> 1.9.3 Add an Intent Dashboard to an Existing Summary Dashboard</span>
 <p>Now, let us add the route check intent dashboard to the Device Health 
  Monitor Summary</p>
 <p>Dashboard created in Section 2.9.2 as follows:</p>
