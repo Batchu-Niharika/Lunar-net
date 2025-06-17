@@ -48,11 +48,13 @@
 	<li class="list">Create the dashboard from the intent to better view 
 	 the results. </li>
 </ol>
+
 ## 1.1 Search and Add Devices to the Map
 <p>The intent is always associated with a device or a set of devices, which 
  are called the seed device(s). You can draw these devices either by searching 
  devices from the search bar and adding them to the map or by drawing the 
  predefined group of devices to the map (recommended best practice). </p>
+ 
 ### 1.1.1 Draw Devices from a Device Group
 <p>You can create a device group and draw the predefined group of devices 
  to the map as follows: </p>
@@ -67,6 +69,7 @@
 	<p><img src="image1.gif" alt="" style="border: none; margin-left: 8px; 
 			 margin-right: 0px; margin-top: 0px; margin-bottom: 0px;" border="0" /></p>
 </ol>
+
 ### 1.1.2 Draw Devices from the Search Bar
 <p>You can search and map devices from the Lunar Net desktop:</p>
 <p>Search the device US-BOS-R1 in the search bar.</p>
@@ -79,7 +82,8 @@
 	 devices US-BOS-R2 and CA-TOR-R1. </li>
 	<p><img src="image2.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<h2>1.1.3 Save the Device Map</h2>
+
+### 1.1.3 Save the Device Map
 <p>In the Upper-Right corner of the screen, click the floppy disk icon 
  to save the current map. </p>
 <ol style="list-style: decimal;">
@@ -90,13 +94,8 @@
 	<li class="list">Click OK to save and close the window.</li>
 	<p><img src="image3.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.2 
-		 Quick Intent Creation </h1></td>
-	
 
+## 1.2 Quick Intent Creation 
 <ol style="list-style: decimal;">
 	<li class="list">From the map you just created,</li>
 	<li class="list">Go to the Quick Intent tab in the Intent section.</li>
@@ -110,13 +109,9 @@
 	<p>&#160;</p>
 	<p><img src="image9.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1>1.3 Define 
-		 Variables with a Visual Parser</h1></td>
-	</tr>
-</table>
+
+## 1.3 Define Variables with a Visual Parser
+	
 <p>Defining variables is simple with Quick Intent using the auto-parser 
  feature. Entry-level users can quickly learn and utilize the parser. The 
  system will automatically select the appropriate parser mode (single or 
