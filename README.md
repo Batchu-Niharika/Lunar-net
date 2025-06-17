@@ -6,8 +6,8 @@
 	<col style="width: 43.214%;" />
 	<col style="width: 56.786%;" />
 	<tr>
-		<td><p style="text-align: center; font-weight: bold;">**CLI Command**</p></td>
-		<td><p style="text-align: center; font-weight: bold;">**Intent Description**</p></td>
+		<td><p style="text-align: center; font-weight: bold;">*CLI Command*</p></td>
+		<td><p style="text-align: center; font-weight: bold;">*Intent Description*</p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align: center;">Ping &lt;destination ip&gt; 
