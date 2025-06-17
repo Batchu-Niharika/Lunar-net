@@ -48,13 +48,7 @@
 	<li class="list">Create the dashboard from the intent to better view 
 	 the results. </li>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.1 
-		 Search and Add Devices to the Map </h1></td>
-	</tr>
-</table>
+## 1.1 Search and Add Devices to the Map
 <p>The intent is always associated with a device or a set of devices, which 
  are called the seed device(s). You can draw these devices either by searching 
  devices from the search bar and adding them to the map or by drawing the 
@@ -101,8 +95,8 @@
 	<tr>
 		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.2 
 		 Quick Intent Creation </h1></td>
-	</tr>
-</table>
+	
+
 <ol style="list-style: decimal;">
 	<li class="list">From the map you just created,</li>
 	<li class="list">Go to the Quick Intent tab in the Intent section.</li>
