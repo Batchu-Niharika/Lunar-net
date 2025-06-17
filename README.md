@@ -1,4 +1,4 @@
-<table style="margin-bottom: 50px; height: 50px;" cellspacing="0" width="100%">
+<table style="margin-bottom: 50px; height: 10px;" cellspacing="0" width="100%">
 	<col style="width: 100%;" />
 	<tr>
 		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 50pt;">1 
