@@ -53,7 +53,7 @@
  are called the seed device(s). You can draw these devices either by searching 
  devices from the search bar and adding them to the map or by drawing the 
  predefined group of devices to the map (recommended best practice). </p>
-<h2>1.1.1 Draw Devices from a Device Group</h2>
+### 1.1.1 Draw Devices from a Device Group
 <p>You can create a device group and draw the predefined group of devices 
  to the map as follows: </p>
 <ol style="list-style: decimal;">
@@ -67,7 +67,7 @@
 	<p><img src="image1.gif" alt="" style="border: none; margin-left: 8px; 
 			 margin-right: 0px; margin-top: 0px; margin-bottom: 0px;" border="0" /></p>
 </ol>
-<h2>1.1.2 Draw Devices from the Search Bar</h2>
+### 1.1.2 Draw Devices from the Search Bar
 <p>You can search and map devices from the Lunar Net desktop:</p>
 <p>Search the device US-BOS-R1 in the search bar.</p>
 <ol style="list-style: decimal;">
