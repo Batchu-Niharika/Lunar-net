@@ -37,7 +37,7 @@
  which has the following steps: </p>
 <ol style="list-style: decimal;">
 	<li class="list">Create a new map or open an existing map.</li>
-	<li class="list">Under the Quick Intent tag, create an intent. You 
+	<li class="list">Under the <b>Quick Intent</b> tag, create an intent. You 
 	 can edit and run the quick intent recursively till you are satisfied 
 	 with the intent results. </li>
 	<li class="list">Save the intent as a map intent.</li>
@@ -47,7 +47,7 @@
 
 ## <span style="color: #ff7f3f;"> 1.1 Search and Add Devices to the Map </span>
 <p>The intent is always associated with a device or a set of devices, which 
- are called the seed device(s). You can draw these devices either by searching 
+ are called the <b>seed device(s)</b>. You can draw these devices either by searching 
  devices from the search bar and adding them to the map or by drawing the 
  predefined group of devices to the map (recommended best practice). </p>
  
@@ -55,11 +55,11 @@
 <p>You can create a device group and draw the predefined group of devices 
  to the map as follows: </p>
 <ol style="list-style: decimal;">
-	<li class="list">Go to Device Group from the start menu from the Lunar 
+	<li class="list">Go to <b>Device Group</b> from the <b>start</b> menu from the Lunar 
 	 Net desktop. </li>
 	<li class="list">&#160;In the device group pane, select the predefined 
-	 group Cisco Routers and click the drop-down menu. </li>
-	<li class="list">Click Draw Devices on Map to add the devices to a 
+	 group <b>Cisco Routers</b> and click the drop-down menu. </li>
+	<li class="list">Click <b>Draw Devices on Map</b> to add the devices to a 
 	 new map. </li>
 	<li class="list">Close the Device group pane.</li>
 	<p><img src="image1.gif" alt="" style="border: none; margin-left: 8px; 
@@ -68,14 +68,14 @@
 
 ### <span style="color: #ff7f3f;"> 1.1.2 Draw Devices from the Search Bar</span>
 <p>You can search and map devices from the Lunar Net desktop:</p>
-<p>Search the device US-BOS-R1 in the search bar.</p>
+<p>Search the device <b>US-BOS-R1</b> in the search bar.</p>
 <ol style="list-style: decimal;">
 	<li class="list">In the results device section, click Map to draw the 
 	 device to the map. </li>
 	<li class="list">Close the search results window and open the Intent 
 	 pane. </li>
 	<li class="list">Repeat the Step 1 thru Step 3 and add other cisco 
-	 devices US-BOS-R2 and CA-TOR-R1. </li>
+	 devices <b>US-BOS-R2 and CA-TOR-R1</b>. </li>
 	<p><img src="image2.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
