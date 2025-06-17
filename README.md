@@ -49,13 +49,13 @@
 	 the results. </li>
 </ol>
 
-## 1.1 Search and Add Devices to the Map
+## <span style="color: #ff7f3f;"> 1.1 Search and Add Devices to the Map </span>
 <p>The intent is always associated with a device or a set of devices, which 
  are called the seed device(s). You can draw these devices either by searching 
  devices from the search bar and adding them to the map or by drawing the 
  predefined group of devices to the map (recommended best practice). </p>
  
-### 1.1.1 Draw Devices from a Device Group
+### <span style="color: #ff7f3f;"> 1.1.1 Draw Devices from a Device Group  </span>
 <p>You can create a device group and draw the predefined group of devices 
  to the map as follows: </p>
 <ol style="list-style: decimal;">
@@ -70,7 +70,7 @@
 			 margin-right: 0px; margin-top: 0px; margin-bottom: 0px;" border="0" /></p>
 </ol>
 
-### 1.1.2 Draw Devices from the Search Bar
+### <span style="color: #ff7f3f;"> 1.1.2 Draw Devices from the Search Bar</span>
 <p>You can search and map devices from the Lunar Net desktop:</p>
 <p>Search the device US-BOS-R1 in the search bar.</p>
 <ol style="list-style: decimal;">
