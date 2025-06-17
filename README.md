@@ -83,7 +83,7 @@
 	<p><img src="image2.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
-### 1.1.3 Save the Device Map
+### <span style="color: #ff7f3f;">1.1.3 Save the Device Map</span>
 <p>In the Upper-Right corner of the screen, click the floppy disk icon 
  to save the current map. </p>
 <ol style="list-style: decimal;">
@@ -95,7 +95,7 @@
 	<p><img src="image3.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
-## 1.2 Quick Intent Creation 
+## <span style="color: #ff7f3f;">1.2 Quick Intent Creation </span>
 <ol style="list-style: decimal;">
 	<li class="list">From the map you just created,</li>
 	<li class="list">Go to the Quick Intent tab in the Intent section.</li>
@@ -110,7 +110,7 @@
 	<p><img src="image9.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
-## 1.3 Define Variables with a Visual Parser
+## <span style="color: #ff7f3f;">1.3 Define Variables with a Visual Parser</span>
 	
 <p>Defining variables is simple with Quick Intent using the auto-parser 
  feature. Entry-level users can quickly learn and utilize the parser. The 
@@ -119,7 +119,8 @@
 <p>Once the auto-parser completes the parser definition task, you can add 
  additional variables or make adjustments to the line pattern to achieve 
  the desired result.</p>
-<h2>1.3.1 Define parser for ping &lt;destination ip&gt;</h2>
+ 
+### <span style="color: #ff7f3f;"> 1.3.1 Define parser for ping &lt;destination ip&gt; </span>
 <p>You can define a variable with the following steps:</p>
 <ol>
 	<li>Create and add a parser using the option New located next to the 
@@ -147,7 +148,8 @@
 	 diagnosis.</li>
 	<p><img src="image17.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<h2>1.3.2 Define parser for Command Show ip route</h2>
+
+### <span style="color: #ff7f3f;">1.3.2 Define parser for Command Show ip route</span>
 <p>You can define a variable with the following steps:</p>
 <ol>
 	<li>Create and add a parser using the option New located next to the 
@@ -172,11 +174,8 @@
 	 diagnosis.</li>
 	<p><img src="image21.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1>1.4 Define 
-		 the Diagnosis</h1></td>
+
+# <span style="color: #ff7f3f;">1.4 Define the Diagnosis</span>
 	</tr>
 </table>
 <p>Go to the Define Logic section to define the diagnosis logic as follows:</p>
@@ -306,13 +305,8 @@
 	</ul>
 	<p><img src="image29.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.6 
-		 Duplicate the Intent to Other Devices </h1></td>
-	</tr>
-</table>
+# <span style="color: #ff7f3f;">1.6 Duplicate the Intent to Other Devices </span>
+
 <p>An intent can be duplicated to other devices. The system will automatically 
  copy the parser and logic to other devices.</p>
 <ol>
@@ -332,13 +326,8 @@
 	 then OK.</li>
 	<p><img src="image30.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.7 
-		 Diagnosis Tree </h1></td>
-	</tr>
-</table>
+
+# <span style="color: #ff7f3f;"> 1.7 Diagnosis Tree </span>
 <p>Click to view the diagnosis tree. It includes the following details 
  as shown in the figure:</p>
 <ul>
@@ -349,13 +338,9 @@
 </ul>
 <p><img alt="" src="Screenshot 2025-06-15 142613.jpg" style="border: none;" 
 		 width="780" height="623" border="0" /></p>
-<table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1.8 
-		 View the Result on Map </h1></td>
-	</tr>
-</table>
+   
+# <span style="color: #ff7f3f;"> 1.8 View the Result on Map </span>
+
 <p>The result of the intent execution can be visualized in a map as shown 
  in the following map by selecting Show in Map button located in the Run 
  Intent pane:</p>
@@ -373,7 +358,7 @@
 	<li>Summary Dashboard to view the consolidated Intent results in a 
 	 single view.</li>
 </ul>
-<h2>1.9.1 Intent Dashboard</h2>
+## 1.9.1 Intent Dashboard</h2>
 <p>The Intent Dashboard observes specific network issues with details and 
  displays the results. You can save the frequently used dashboards as templates. 
  Intent Dashboard can be created directly from the Map Intent tab as follows:</p>
