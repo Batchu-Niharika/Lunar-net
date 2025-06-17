@@ -1,10 +1,5 @@
-<table style="margin-bottom: 50px; height: 15px;" cellspacing="0" width="100%">
-	<col style="width: 100%;" />
-	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 15pt;">1 
-		 Automate Frequently Used Commands </h1></td>
-	</tr>
-</table>
+# 1 Automate Frequently Used Commands </h1></td>
+	
 <p>In this chapter, you will create your first intent. You will find that 
  it is easy to automate the </p>
 <p>frequently used CLI commands such as Ping &lt;destIP&gt; and show ip 
