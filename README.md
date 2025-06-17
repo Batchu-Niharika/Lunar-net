@@ -1,4 +1,4 @@
-# 1 Automate Frequently Used Commands </h1></td>
+# 1 Automate Frequently Used Commands 
 	
 <p>In this chapter, you will create your first intent. You will find that 
  it is easy to automate the </p>
