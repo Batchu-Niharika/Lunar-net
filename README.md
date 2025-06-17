@@ -83,22 +83,22 @@
 <p>In the Upper-Right corner of the screen, click the floppy disk icon 
  to save the current map. </p>
 <ol style="list-style: decimal;">
-	<li class="list">In the Save Map window, choose either a Desktop or 
+	<li class="list">In the <b>Save Map</b> window, choose either a Desktop or 
 	 another location to save the map. </li>
 	<li class="list">Add a name [Ping Check (Cisco IOS) / Route Check (Cisco 
 	 IOS)] to the map. </li>
-	<li class="list">Click OK to save and close the window.</li>
+	<li class="list">Click <b>OK</b> to save and close the window.</li>
 	<p><img src="image3.gif" alt="" style="border: none;" border="0" /></p>
 </ol>
 
 ## <span style="color: #ff7f3f;">1.2 Quick Intent Creation </span>
 <ol style="list-style: decimal;">
 	<li class="list">From the map you just created,</li>
-	<li class="list">Go to the Quick Intent tab in the Intent section.</li>
-	<li class="list">Enter the command Ping 10.8.1.1 in Input 
-	 or Select a command… field to collect data. For another example, you 
-	 enter the command show ip route 0.0.0.0.</li>
-	<li class="list">Click Retrieve to parse the data.</li>
+	<li class="list">Go to the <b>Quick Intent</b> tab in the Intent section.</li>
+	<li class="list">Enter the command <b>Ping 10.8.1.1</b> in <b>Input 
+	 or Select a command…</b> field to collect data. For another example, you 
+	 enter the command <b>show ip route 0.0.0.0</b>.</li>
+	<li class="list">Click <b>Retrieve</b> to parse the data.</li>
 	<p><img src="image4.gif" alt="" style="border: none;" border="0" /></p>
 	<li class="list"><p>The retrieved data sample will be:</p></li>
 	<p><img src="image8.gif" alt="" style="border: none;" border="0" /></p>
