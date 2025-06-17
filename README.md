@@ -330,9 +330,9 @@
 	<li>Execution date and time,</li>
 	<li>The diagnosis tree in Pre-Execution and Post-Execution mode,</li>
 	<li>The status of execution in each device with color legends.</li>
-</ul>
 <p><img alt="" src="Screenshot 2025-06-15 142613.jpg" style="border: none;" 
 		 width="780" height="623" border="0" /></p>
+</ul>
    
 ## <span style="color: #ff7f3f;"> 1.8 View the Result on Map </span>
 
