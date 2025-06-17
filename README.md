@@ -95,7 +95,7 @@
 <ol style="list-style: decimal;">
 	<li class="list">From the map you just created,</li>
 	<li class="list">Go to the Quick Intent tab in the Intent section.</li>
-	<li>class=&quot;list&quot;&gt;Enter the command Ping 10.8.1.1 in Input 
+	<li class="list">Enter the command Ping 10.8.1.1 in Input 
 	 or Select a command… field to collect data. For another example, you 
 	 enter the command show ip route 0.0.0.0.</li>
 	<li class="list">Click Retrieve to parse the data.</li>
@@ -176,10 +176,10 @@
 <ol>
 	<li>Enter the diagnosis name, e.g., Ping Cisco or Subnet next hop check.</li>
 	<li>Define the condition as detailed in the following table and images:</li>
-	<table style="border-collapse: separate; border-collapse: separate;" 
-			 cellspacing="0" width="59.398%" border="1">
-		<col style="width: 43.812%;" />
-		<col style="width: 56.188%;" />
+<table style="border-collapse: separate; border-collapse: separate;" 
+			 width="49.241%" cellspacing="0" border="1">
+		<col style="width: 52.705%;" />
+		<col style="width: 47.295%;" />
 		<tr>
 			<td><p style="text-align: center; font-weight: bold;">Intent</p></td>
 			<td><p style="text-align: center; font-weight: bold;">Steps</p></td>
@@ -216,8 +216,7 @@
 <ol>
 	<li>Then: Define a color, message and status in case If condition is 
 	 true,as shown in the figure.</li>
-	<li>Click the check box of the Set Status Code for Device and Set Status 
-	 Code for Intent to duplicate the message to the Device Status Code.</li>
+	<li>Click the check box of the Set Status Code for Device and Set Status Code for Intent to duplicate the message to the Device Status Code.</li>
 	<table style="border-collapse: separate; border-collapse: separate;" 
 			 cellspacing="0" width="55.374%" border="1">
 		<col style="width: 30.644%;" />
@@ -226,6 +225,12 @@
 			<td><p style="text-align: center;"><span style="font-weight: bold;">Intent</span></p></td>
 			<td><p style="text-align: center; font-weight: bold;">Message</p></td>
 		</tr>
+		<tr>
+			<td><p style="text-align: center;">&#160;Ping</p></td>
+			<td><p style="text-align: center;">$this_device ping failed, 
+			 and the average round trip time is $avg ms</p></td>
+		</tr>
+	</table>
 		<tr>
 			<td><p style="text-align: center;">&#160;Ping</p></td>
 			<td><p style="text-align: center;">$this_device ping failed, 
