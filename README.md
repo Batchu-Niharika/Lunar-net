@@ -231,12 +231,6 @@
 			 and the average round trip time is $avg ms</p></td>
 		</tr>
 	</table>
-		<tr>
-			<td><p style="text-align: center;">&#160;Ping</p></td>
-			<td><p style="text-align: center;">$this_device ping failed, 
-			 and the average round trip time is $avg ms</p></td>
-		</tr>
-	</table>
 	<p><img src="image24.gif" alt="" style="border: none;" border="0" /></p>
 	<table style="border-collapse: separate; border-collapse: separate;" 
 			 cellspacing="0" width="75.716%" border="1">
