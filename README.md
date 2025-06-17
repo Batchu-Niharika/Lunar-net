@@ -12,8 +12,8 @@
 <table style="margin-bottom: 12px; height: 20px;" cellspacing="0" width="100%">
 	<col style="width: 100%;" />
 	<tr>
-		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 5pt;">1 
-		 Automate Frequently Used Commands </h1></td>
+		<td style="vertical-align: middle;" bgcolor="#FFE5CE"><h1 style="margin-bottom: 3pt;"># *1 
+		 Automate Frequently Used Commands* </h1></td>
 	</tr>
 </table>
 <p>In this chapter, you will create your first intent. You will find that 
