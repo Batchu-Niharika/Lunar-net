@@ -386,6 +386,7 @@
 	<li>Select Add to Summary Dashboard to open the corresponding window 
 	 for creating a summary dashboard.</li>
 	<p><img src="image36.gif" alt="" style="border: none;" border="0" /></p>
+	
 	<li>In the Add to Summary Dashboard window, let us create the new summary 
 	 dashboard and group as follows:</li>
 	<ol>
@@ -430,15 +431,16 @@
 	<p><img src="image42.gif" alt="" style="border: none;" border="0" /></p>
 	<li>Choose the dashboard group that you have created in the previous 
 	 section or create a new group as per the need.</li>
+	
 	<p><img src="image43.gif" alt="" style="border: none;" border="0" /></p>
 	<li>Click OK to save and create the summary dashboard.</li>
 	<li>Click Open Summary Dashboard to view the dashboard.</li>
+ 
 	<p><img src="image44.gif" alt="" style="border: none;" border="0" /></p>
 	<li>Review the resulting Summary Dashboard and explore the dashboard 
 	 interface.</li>
 	<p><img src="image45.gif" alt="" style="border: none;" border="0" /></p>
 	<p>&#160;</p>
 </ol>
-</body>
-</html>
+
 
