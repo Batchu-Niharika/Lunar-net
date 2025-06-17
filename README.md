@@ -62,7 +62,7 @@
 	<li class="list">Click Draw Devices on Map to add the devices to a 
 	 new map. </li>
 	<li class="list">Close the Device group pane.</li>
-	-
+	
 	<p><img src="image1.gif" alt="" style="border: none; margin-left: 8px; 
 			 margin-right: 0px; margin-top: 0px; margin-bottom: 0px;" border="0" /></p>
 </ol>
