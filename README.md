@@ -10,15 +10,15 @@
 		<td><p style="text-align: center; font-weight: bold;">Intent Description</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align: center;"><b>Ping &lt;destination ip&gt;</b>
+		<td><p style="text-align: center;"><b>Ping &lt;destination ip&gt; </b>
 		 </p></td>
 		<td><p style="text-align: center;">Check whether the success rate 
 		 is equal to 100% and the average round trip time is reasonable. 
 		 If not, create an alert. </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align: center;">show ip route &lt;destination 
-		 ip&gt;</p></td>
+		<td><p style="text-align: center;"><b>show ip route &lt;destination 
+		 ip&gt;</b></p></td>
 		<td><p style="text-align: center;">Compare the next hop to the 
 		 last known value (baseline). If it changes, create an alert and 
 		 set the baseline value. </p></td>
